@@ -1,0 +1,12 @@
+{
+  "name": "pre-entrega",
+  "version": "1.0.0",
+  "description": "Proyecto de pre-entrega para el curso de back-end en Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Elías García",
+  "license": "MIT",
+  "type": "module"
+}
